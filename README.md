@@ -4,7 +4,7 @@
 - 👀 I’m interested in software development, data structures, algorithms, and system designs.
 - 🌱 I’m currently learning advanced software engineering concepts, full-stack development, and machine learning models.
 - 💞️ I’m looking to collaborate on open-source projects related to web development, mobile apps, or anything involving exciting technologies.
-- 📫 How to reach me: [jamshidjunaid763@gmail.com](mailto:jamshidjunaid763@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/junaid-jamshid-61b76424b).
+- 📫 How to reach me: [jamshidjunaid763@gmail.com](mailto:jamshidjunaid763@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/junaid-jamshid-61b76424b).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about problem-solving and softwar Development!
 
