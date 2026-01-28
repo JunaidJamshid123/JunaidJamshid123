@@ -19,29 +19,34 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 
-```typescript
+```javascript
 const junaid = {
-    pronouns: "He" | "Him",
     role: "Software Engineer",
     location: "Pakistan 🇵🇰",
-    specialization: ["Mobile Development", "Backend Architecture"],
-    domains: ["Healthcare Systems", "FinTech", "Enterprise Solutions"],
-    currentFocus: "Building scalable mobile & backend solutions",
-    funFact: "I turn coffee into code! ☕ → 💻"
+    expertise: {
+        mobile: ["Kotlin", "Java", "Jetpack Compose", "Flutter"],
+        backend: ["Node.js", "NestJS", "REST APIs", "GraphQL"]
+    },
+    domains: ["Healthcare", "FinTech", "Enterprise"],
+    passion: "Building scalable solutions that matter!"
 };
 ```
 
 <br/>
 
-- 🔭 Currently working on **Enterprise Mobile Applications**
-- 🌱 Exploring **Cloud Architecture & Microservices**
-- 💬 Ask me about **Mobile Development, Backend APIs, System Design**
-- 📫 Reach me at: **jamshidjunaid763@gmail.com**
-- ⚡ Fun fact: **I debug with print statements first! 😄**
+🔭 Currently working on **Enterprise Mobile Applications**
+
+🌱 Exploring **Cloud Architecture & Microservices**
+
+💬 Ask me about **Mobile Dev, Backend APIs, System Design**
+
+📫 Reach me at **jamshidjunaid763@gmail.com**
+
+⚡ Fun fact: **I turn ☕ into 💻 code!**
 
 <br clear="both"/>
 
@@ -134,35 +139,10 @@ const junaid = {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidJamshid123&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidJamshid123&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidJamshid123&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-<!-- Trophy Section -->
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JunaidJamshid123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
-</div>
-
----
-
-<!-- Contribution Snake -->
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidJamshid123&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -171,34 +151,36 @@ const junaid = {
 ## 🤝 Let's Connect!
 
 <div align="center">
+  
   <a href="mailto:jamshidjunaid763@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/junaid-jamshid-61b76424b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/JunaidJamshid123">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
+<br/>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 <div align="center">
-  <b>💡 "Building the future, one line of code at a time" 💡</b>
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  <br/><br/>
-  <sub>⭐ From <a href="https://github.com/JunaidJamshid123">JunaidJamshid123</a> with ❤️</sub>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+  <br/>
+  <b>⭐ Thanks for visiting! Let's build something amazing together! ⭐</b>
 </div>
